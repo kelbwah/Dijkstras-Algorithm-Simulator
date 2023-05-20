@@ -12,6 +12,13 @@ and also set weights to each node from every other node and then see the fastest
   2. Once you have the zip file or the repo cloned onto your computer, simply open the IDE of your choosing and then locate and add the folder that contains the source code and then run the file titled: "Dijkstras_Algorithm_Simulation.py"
 
 ## How to play:
+https://github.com/kelbwah/Dijkstras-Algorithm-Simulator/assets/124933520/333ad548-1381-462c-87dc-4c3ef3a23fe8
+
+## Steps to start the simulation:
+### Step 1 - Add nodes and double-click them to specify the start and target vertexes
+### Step 2 - Using your right click, drag your mouse from one vertex to another to set a connection and a weight to both vertexes
+### Step 3 - Once you have start and target vertexes and connections between them, you can then press 'start' to see the fastest route between the start and target vertex
+
 
 
   
